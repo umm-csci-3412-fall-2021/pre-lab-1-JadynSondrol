@@ -1,4 +1,5 @@
-# the name for the file that need to be wrapped
+#!/bin/bash
+# the name for the file that needs to be wrapped
 FILENAME=$1
 
 # the name used to specify to header/footer
